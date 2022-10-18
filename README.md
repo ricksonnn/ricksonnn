@@ -5,6 +5,4 @@
 ## LEISURE 
 >Leetcode.
 
->Figuring out the meaning of life.
-
 >Be a better person & coder.
