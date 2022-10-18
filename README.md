@@ -2,6 +2,7 @@
 ## WHO AM I
 >Software engineer by day, Crypto enthusiast by night.
 
+
 ## LEISURE 
 >Leetcode.
 
@@ -20,5 +21,8 @@
     <img src="https://img.shields.io/badge/twitch-purple?style=for-the-badge&logo=" alt="Twitch Badge"/>
   </a>
 </div>
-
+<div id="counter">
+  <img src="https://komarev.com/ghpvc/?username=ricksonnn&style=flat-square&color=blue" alt=""/>
+</div>
+ 
  
