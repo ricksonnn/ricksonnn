@@ -11,13 +11,13 @@
 
 <div id="badges">
   <a href="https://www.youtube.com/">
-    <img src="https://img.shields.io/badge/Youtube-Red?style=for-the-badge&logo" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/youtube-red?style=for-the-badge&logo=black" alt="Youtube Badge"/>
   </a>
   <a href="https://www.reddit.com/r/programming/">
-    <img src="https://img.shields.io/badge/Reddit-White?style=for-the-badge&logo=" alt="Youtube Badge"/>
+    <img src="https://img.shields.io/badge/reddit-black?style=for-the-badge&logo=" alt="Reddit Badge"/>
   </a>
   <a href="https://www.twitch.tv">
-    <img src="https://img.shields.io/badge/Twitch-Purple?style=for-the-badge&logo=" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/twitch-purple?style=for-the-badge&logo=" alt="Twitch Badge"/>
   </a>
 </div>
 
