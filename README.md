@@ -23,7 +23,8 @@
 </div>
 <div id="counter">
 <h1>
-  <img src="https://komarev.com/ghpvc/?username=ricksonnn&style=flat-square&color=blue" alt=""/>
+ <a href="https://github.com/ricksonnn">
+  <img src="https://komarev.com/ghpvc/?username=ricksonnn&style=flat-square&color=blue"/>
 </div>
 </h1>
  
