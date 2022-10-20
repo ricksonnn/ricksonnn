@@ -21,10 +21,5 @@
     <img src="https://img.shields.io/badge/twitch-purple?style=for-the-badge&logo=" alt="Twitch Badge"/>
   </a>
 </div>
-<div id="counter">
-<h1>
- <a href="https://github.com/ricksonnn">
-  <img src="https://komarev.com/ghpvc/?username=ricksonnn&style=flat-square&color=blue"/>
-</div>
-</h1>
+
  
